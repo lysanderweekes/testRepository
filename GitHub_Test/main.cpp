@@ -23,5 +23,7 @@ int main() {
         cout << "login unsuccessful, please try again" << endl;
     }
 
+    system("PAUSE");
+
     return 0;
 }
